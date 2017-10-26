@@ -16,7 +16,7 @@ public class letraRepetida {
     public letraRepetida ()
     {
         this.num1=0;
-        this.letra = '\0';//es es el vacio en char
+        this.letra = '\0';//este es el vacio en char
     }
     public int getNum1()
     {
